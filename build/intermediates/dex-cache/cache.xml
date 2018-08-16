@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-7cd93bec0729235646559b87e95111c8275f0645.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-011c723ff5023dbdff30a21bf9c49e893b0230d7.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-31364e27268aab051d506f88d6aa0a94c7881a24.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-5288a7a1ef663a029fa90421e6c22eaa6859e04a.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-017b25fc16f72d58b17f0c8235845fb45a21fe55.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-3fed7156b1682fa64a1e09b4f3b7e2e7b79ab081.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-58a3c1c5201f1b3516c85282af5ccea45faffbda.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-ed3227edeec76996ab47d89f3b14514aa85556e5.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-642d1f04479ff54727d119709109ef517346f2fe.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-c4373083a3d7f219f80d8cca5f094698d9056ce8.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-d498a53bfea16ab4f275f790b5562e97dfc70b74.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-1ebdb9b3327d7d36a5fbda661a519caaad89ad3a.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-c69401bd51f88cef5061474cf88281c57301a4fb.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-24ae52a96fd158288dab20bef741e24aa6a7a247.jar" />
+    </item>
+    <item
+        jar="C:\Users\Draghici Stefan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-a0cef0d654b43b6376271bff115fe2efd278d66c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Draghici Stefan\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\parse-android-1.13.0-0f36506c143549f5ac3afcf7df23d6e24f459c86.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-f96c065695adef4ef73ad23a79646002c7140710.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-3b7094bb41e3ea98ca59474e2fd8d1321864c6a0.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-cd9803d451d11cc5ee3d9ae9656c8b6ebd4bc4bd.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-041ac38be06c4f3fe455c78c8bd1645c3e09829c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-7c3d3f95d8ab53d18f101dcf68ec97190430e6fc.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-8bbcd673b19a37fbfae8de33952dcd7a12ca8230.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-17a6097a93dfa7e27afb408e4ac797c748409af4.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-e133969b17fe317eaee57f192321a0f1e36ae534.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-09d953c641f83dbff41ab7290e30a950598a298f.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-16a31469fc316abe91c9b768d5bc8e352ddb5f8b.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-f82e558b5759c9d3477673dbe3e9a7a1a8a3fc58.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-24f6cd968d0870945657282cbf5898a43a34b68e.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-09ce1041853cf0ae72b385e3c4bacf1fba1f317d.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-99c1f1f0eec1e8be36e7f68678ee6e94021980e7.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-d773c4cb347e6de8c7b046d012850396b7de3f9a.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-21d99521835f6b15c27929fd5e71b5759294300f.jar" />
+    </item>
+    <item
+        jar="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\ProiecteAndroidFinale\Taxi\Taxi\build\intermediates\pre-dexed\debug\classes-12a5d583b6c3b9e82c73014ca5fbe5416ea5d300.jar" />
+    </item>
+
+</items>

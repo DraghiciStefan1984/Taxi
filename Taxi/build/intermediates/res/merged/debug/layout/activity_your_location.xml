@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context=".YourLocationActivity"
+                android:background="#ffffff">
+
+<fragment android:id="@+id/map"
+          android:name="com.google.android.gms.maps.SupportMapFragment"
+          xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:map="http://schemas.android.com/apk/res-auto"
+          xmlns:tools="http://schemas.android.com/tools"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          tools:context="com.parse.taxi.YourLocationActivity"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Call A Taxi"
+        android:id="@+id/requestTaxiButton"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="31dp"
+        android:background="#ffef38"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:onClick="requestTaxi"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your Taxi&apos;s Status..."
+        android:id="@+id/infoTextView"
+        android:textColor="#000000"
+        android:background="#ffef38"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginStart="30dp"
+        android:layout_alignBottom="@+id/requestTaxiButton"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="10dp"/>
+
+</RelativeLayout><!-- From: file:/D:/ProiecteAndroidFinale/Taxi/Taxi/src/main/res/layout/activity_your_location.xml -->
